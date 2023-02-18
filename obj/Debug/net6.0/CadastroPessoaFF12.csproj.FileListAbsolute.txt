@@ -1,0 +1,75 @@
+C:\Users\Rosinei Cavalcanti\OneDrive\Área de Trabalho\CadastroPessoaFF12\bin\Debug\net6.0\CadastroPessoaFF12.exe
+C:\Users\Rosinei Cavalcanti\OneDrive\Área de Trabalho\CadastroPessoaFF12\bin\Debug\net6.0\CadastroPessoaFF12.deps.json
+C:\Users\Rosinei Cavalcanti\OneDrive\Área de Trabalho\CadastroPessoaFF12\bin\Debug\net6.0\CadastroPessoaFF12.runtimeconfig.json
+C:\Users\Rosinei Cavalcanti\OneDrive\Área de Trabalho\CadastroPessoaFF12\bin\Debug\net6.0\CadastroPessoaFF12.dll
+C:\Users\Rosinei Cavalcanti\OneDrive\Área de Trabalho\CadastroPessoaFF12\bin\Debug\net6.0\CadastroPessoaFF12.pdb
+C:\Users\Rosinei Cavalcanti\OneDrive\Área de Trabalho\CadastroPessoaFF12\obj\Debug\net6.0\CadastroPessoaFF12.csproj.AssemblyReference.cache
+C:\Users\Rosinei Cavalcanti\OneDrive\Área de Trabalho\CadastroPessoaFF12\obj\Debug\net6.0\CadastroPessoaFF12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rosinei Cavalcanti\OneDrive\Área de Trabalho\CadastroPessoaFF12\obj\Debug\net6.0\CadastroPessoaFF12.AssemblyInfoInputs.cache
+C:\Users\Rosinei Cavalcanti\OneDrive\Área de Trabalho\CadastroPessoaFF12\obj\Debug\net6.0\CadastroPessoaFF12.AssemblyInfo.cs
+C:\Users\Rosinei Cavalcanti\OneDrive\Área de Trabalho\CadastroPessoaFF12\obj\Debug\net6.0\CadastroPessoaFF12.csproj.CoreCompileInputs.cache
+C:\Users\Rosinei Cavalcanti\OneDrive\Área de Trabalho\CadastroPessoaFF12\obj\Debug\net6.0\CadastroPessoaFF12.dll
+C:\Users\Rosinei Cavalcanti\OneDrive\Área de Trabalho\CadastroPessoaFF12\obj\Debug\net6.0\refint\CadastroPessoaFF12.dll
+C:\Users\Rosinei Cavalcanti\OneDrive\Área de Trabalho\CadastroPessoaFF12\obj\Debug\net6.0\CadastroPessoaFF12.pdb
+C:\Users\Rosinei Cavalcanti\OneDrive\Área de Trabalho\CadastroPessoaFF12\obj\Debug\net6.0\CadastroPessoaFF12.genruntimeconfig.cache
+C:\Users\Rosinei Cavalcanti\OneDrive\Área de Trabalho\CadastroPessoaFF12\obj\Debug\net6.0\ref\CadastroPessoaFF12.dll
+C:\Users\Rosinei Cavalcanti\OneDrive\Área de Trabalho\CadastroPfPj-main\bin\Debug\net6.0\CadastroPessoaFF12.exe
+C:\Users\Rosinei Cavalcanti\OneDrive\Área de Trabalho\CadastroPfPj-main\bin\Debug\net6.0\CadastroPessoaFF12.deps.json
+C:\Users\Rosinei Cavalcanti\OneDrive\Área de Trabalho\CadastroPfPj-main\bin\Debug\net6.0\CadastroPessoaFF12.runtimeconfig.json
+C:\Users\Rosinei Cavalcanti\OneDrive\Área de Trabalho\CadastroPfPj-main\bin\Debug\net6.0\CadastroPessoaFF12.dll
+C:\Users\Rosinei Cavalcanti\OneDrive\Área de Trabalho\CadastroPfPj-main\bin\Debug\net6.0\CadastroPessoaFF12.pdb
+C:\Users\Rosinei Cavalcanti\OneDrive\Área de Trabalho\CadastroPfPj-main\obj\Debug\net6.0\CadastroPessoaFF12.csproj.AssemblyReference.cache
+C:\Users\Rosinei Cavalcanti\OneDrive\Área de Trabalho\CadastroPfPj-main\obj\Debug\net6.0\CadastroPessoaFF12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rosinei Cavalcanti\OneDrive\Área de Trabalho\CadastroPfPj-main\obj\Debug\net6.0\CadastroPessoaFF12.AssemblyInfoInputs.cache
+C:\Users\Rosinei Cavalcanti\OneDrive\Área de Trabalho\CadastroPfPj-main\obj\Debug\net6.0\CadastroPessoaFF12.AssemblyInfo.cs
+C:\Users\Rosinei Cavalcanti\OneDrive\Área de Trabalho\CadastroPfPj-main\obj\Debug\net6.0\CadastroPessoaFF12.csproj.CoreCompileInputs.cache
+C:\Users\Rosinei Cavalcanti\OneDrive\Área de Trabalho\CadastroPfPj-main\obj\Debug\net6.0\CadastroPessoaFF12.dll
+C:\Users\Rosinei Cavalcanti\OneDrive\Área de Trabalho\CadastroPfPj-main\obj\Debug\net6.0\refint\CadastroPessoaFF12.dll
+C:\Users\Rosinei Cavalcanti\OneDrive\Área de Trabalho\CadastroPfPj-main\obj\Debug\net6.0\CadastroPessoaFF12.pdb
+C:\Users\Rosinei Cavalcanti\OneDrive\Área de Trabalho\CadastroPfPj-main\obj\Debug\net6.0\CadastroPessoaFF12.genruntimeconfig.cache
+C:\Users\Rosinei Cavalcanti\OneDrive\Área de Trabalho\CadastroPfPj-main\obj\Debug\net6.0\ref\CadastroPessoaFF12.dll
+C:\Users\Rosinei Cavalcanti\OneDrive\Área de Trabalho\CadastroPJPF\bin\Debug\net6.0\CadastroPessoaFF12.exe
+C:\Users\Rosinei Cavalcanti\OneDrive\Área de Trabalho\CadastroPJPF\bin\Debug\net6.0\CadastroPessoaFF12.deps.json
+C:\Users\Rosinei Cavalcanti\OneDrive\Área de Trabalho\CadastroPJPF\bin\Debug\net6.0\CadastroPessoaFF12.runtimeconfig.json
+C:\Users\Rosinei Cavalcanti\OneDrive\Área de Trabalho\CadastroPJPF\bin\Debug\net6.0\CadastroPessoaFF12.dll
+C:\Users\Rosinei Cavalcanti\OneDrive\Área de Trabalho\CadastroPJPF\bin\Debug\net6.0\CadastroPessoaFF12.pdb
+C:\Users\Rosinei Cavalcanti\OneDrive\Área de Trabalho\CadastroPJPF\obj\Debug\net6.0\CadastroPessoaFF12.csproj.AssemblyReference.cache
+C:\Users\Rosinei Cavalcanti\OneDrive\Área de Trabalho\CadastroPJPF\obj\Debug\net6.0\CadastroPessoaFF12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rosinei Cavalcanti\OneDrive\Área de Trabalho\CadastroPJPF\obj\Debug\net6.0\CadastroPessoaFF12.AssemblyInfoInputs.cache
+C:\Users\Rosinei Cavalcanti\OneDrive\Área de Trabalho\CadastroPJPF\obj\Debug\net6.0\CadastroPessoaFF12.AssemblyInfo.cs
+C:\Users\Rosinei Cavalcanti\OneDrive\Área de Trabalho\CadastroPJPF\obj\Debug\net6.0\CadastroPessoaFF12.csproj.CoreCompileInputs.cache
+C:\Users\Rosinei Cavalcanti\OneDrive\Área de Trabalho\CadastroPJPF\obj\Debug\net6.0\CadastroPessoaFF12.dll
+C:\Users\Rosinei Cavalcanti\OneDrive\Área de Trabalho\CadastroPJPF\obj\Debug\net6.0\refint\CadastroPessoaFF12.dll
+C:\Users\Rosinei Cavalcanti\OneDrive\Área de Trabalho\CadastroPJPF\obj\Debug\net6.0\CadastroPessoaFF12.pdb
+C:\Users\Rosinei Cavalcanti\OneDrive\Área de Trabalho\CadastroPJPF\obj\Debug\net6.0\CadastroPessoaFF12.genruntimeconfig.cache
+C:\Users\Rosinei Cavalcanti\OneDrive\Área de Trabalho\CadastroPJPF\obj\Debug\net6.0\ref\CadastroPessoaFF12.dll
+C:\Users\Rosinei Cavalcanti\OneDrive\Área de Trabalho\CadastroPfPj\bin\Debug\net6.0\CadastroPessoaFF12.exe
+C:\Users\Rosinei Cavalcanti\OneDrive\Área de Trabalho\CadastroPfPj\bin\Debug\net6.0\CadastroPessoaFF12.deps.json
+C:\Users\Rosinei Cavalcanti\OneDrive\Área de Trabalho\CadastroPfPj\bin\Debug\net6.0\CadastroPessoaFF12.runtimeconfig.json
+C:\Users\Rosinei Cavalcanti\OneDrive\Área de Trabalho\CadastroPfPj\bin\Debug\net6.0\CadastroPessoaFF12.dll
+C:\Users\Rosinei Cavalcanti\OneDrive\Área de Trabalho\CadastroPfPj\bin\Debug\net6.0\CadastroPessoaFF12.pdb
+C:\Users\Rosinei Cavalcanti\OneDrive\Área de Trabalho\CadastroPfPj\obj\Debug\net6.0\CadastroPessoaFF12.csproj.AssemblyReference.cache
+C:\Users\Rosinei Cavalcanti\OneDrive\Área de Trabalho\CadastroPfPj\obj\Debug\net6.0\CadastroPessoaFF12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rosinei Cavalcanti\OneDrive\Área de Trabalho\CadastroPfPj\obj\Debug\net6.0\CadastroPessoaFF12.AssemblyInfoInputs.cache
+C:\Users\Rosinei Cavalcanti\OneDrive\Área de Trabalho\CadastroPfPj\obj\Debug\net6.0\CadastroPessoaFF12.AssemblyInfo.cs
+C:\Users\Rosinei Cavalcanti\OneDrive\Área de Trabalho\CadastroPfPj\obj\Debug\net6.0\CadastroPessoaFF12.csproj.CoreCompileInputs.cache
+C:\Users\Rosinei Cavalcanti\OneDrive\Área de Trabalho\CadastroPfPj\obj\Debug\net6.0\CadastroPessoaFF12.dll
+C:\Users\Rosinei Cavalcanti\OneDrive\Área de Trabalho\CadastroPfPj\obj\Debug\net6.0\refint\CadastroPessoaFF12.dll
+C:\Users\Rosinei Cavalcanti\OneDrive\Área de Trabalho\CadastroPfPj\obj\Debug\net6.0\CadastroPessoaFF12.pdb
+C:\Users\Rosinei Cavalcanti\OneDrive\Área de Trabalho\CadastroPfPj\obj\Debug\net6.0\CadastroPessoaFF12.genruntimeconfig.cache
+C:\Users\Rosinei Cavalcanti\OneDrive\Área de Trabalho\CadastroPfPj\obj\Debug\net6.0\ref\CadastroPessoaFF12.dll
+C:\Users\mizae\Downloads\Arquivo txt-readme\bin\Debug\net6.0\CadastroPessoaFF12.exe
+C:\Users\mizae\Downloads\Arquivo txt-readme\bin\Debug\net6.0\CadastroPessoaFF12.deps.json
+C:\Users\mizae\Downloads\Arquivo txt-readme\bin\Debug\net6.0\CadastroPessoaFF12.runtimeconfig.json
+C:\Users\mizae\Downloads\Arquivo txt-readme\bin\Debug\net6.0\CadastroPessoaFF12.dll
+C:\Users\mizae\Downloads\Arquivo txt-readme\bin\Debug\net6.0\CadastroPessoaFF12.pdb
+C:\Users\mizae\Downloads\Arquivo txt-readme\obj\Debug\net6.0\CadastroPessoaFF12.csproj.AssemblyReference.cache
+C:\Users\mizae\Downloads\Arquivo txt-readme\obj\Debug\net6.0\CadastroPessoaFF12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mizae\Downloads\Arquivo txt-readme\obj\Debug\net6.0\CadastroPessoaFF12.AssemblyInfoInputs.cache
+C:\Users\mizae\Downloads\Arquivo txt-readme\obj\Debug\net6.0\CadastroPessoaFF12.AssemblyInfo.cs
+C:\Users\mizae\Downloads\Arquivo txt-readme\obj\Debug\net6.0\CadastroPessoaFF12.csproj.CoreCompileInputs.cache
+C:\Users\mizae\Downloads\Arquivo txt-readme\obj\Debug\net6.0\CadastroPessoaFF12.dll
+C:\Users\mizae\Downloads\Arquivo txt-readme\obj\Debug\net6.0\refint\CadastroPessoaFF12.dll
+C:\Users\mizae\Downloads\Arquivo txt-readme\obj\Debug\net6.0\CadastroPessoaFF12.pdb
+C:\Users\mizae\Downloads\Arquivo txt-readme\obj\Debug\net6.0\CadastroPessoaFF12.genruntimeconfig.cache
+C:\Users\mizae\Downloads\Arquivo txt-readme\obj\Debug\net6.0\ref\CadastroPessoaFF12.dll
